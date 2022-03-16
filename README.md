@@ -4,8 +4,6 @@
 - ✨ Стремлюсь писать красивый, легко читаемый код
 - ⚡ Имею большой опыт в разработке корпоративных систем (MES систем)
 
-#### @kat_batist ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) 
-
 #### 🔨 Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
